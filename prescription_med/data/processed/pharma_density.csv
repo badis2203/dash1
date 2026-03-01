@@ -1,0 +1,13 @@
+region_x;nb_pharmacies;region_code;region_y;population;pharma_pour_100k
+Auvergne-Rhône-Alpes;2184;84;84;8238335;27.0
+Bourgogne-Franche-Comté;857;27;27;2800180;31.0
+Bretagne;783;53;53;3469711;23.0
+Centre-Val de Loire;601;24;24;2588006;23.0
+Grand Est;1272;44;44;5557457;23.0
+Hauts-de-France;1538;32;32;5983840;26.0
+Normandie;728;28;28;3348960;22.0
+Nouvelle-Aquitaine;1618;75;75;6181885;26.0
+Occitanie;1699;76;76;6165869;28.0
+Pays de la Loire;871;52;52;3926871;22.0
+Provence-Alpes-Côte d'Azur;1588;93;93;5252362;30.0
+Île-de-France;3138;11;11;12507542;25.0
